@@ -1,0 +1,30 @@
+Enter the name of an actor: Kevin Bacon
+Kevin Bacon's Kevin Bacon number is 0.
+
+Enter the name of an actor: Parker Posey
+Parker Posey's Kevin Bacon number is 2.
+Parker Posey appeared in You've Got Mail (1998) with Meg Ryan
+Meg Ryan appeared in In the Cut (2003) with Kevin Bacon
+
+Enter the name of an actor: W.C. Fields
+W.C. Fields's Kevin Bacon number is infinite.
+
+Enter the name of an actor: George Burns
+George Burns's Kevin Bacon number is infinite.
+
+Enter the name of an actor: George Clooney
+George Clooney is not in our database.
+
+Enter the name of an actor: Tom Hanks
+Tom Hanks's Kevin Bacon number is 1.
+Tom Hanks appeared in Apollo 13 (1995) with Kevin Bacon
+
+Enter the name of an actor: Meg Ryan
+Meg Ryan's Kevin Bacon number is 1.
+Meg Ryan appeared in In the Cut (2003) with Kevin Bacon
+
+Enter the name of an actor: Lisa Kudrow
+Lisa Kudrow's Kevin Bacon number is 3.
+Lisa Kudrow appeared in Clockwatchers (1997) with Parker Posey
+Parker Posey appeared in You've Got Mail (1998) with Meg Ryan
+Meg Ryan appeared in In the Cut (2003) with Kevin Bacon
